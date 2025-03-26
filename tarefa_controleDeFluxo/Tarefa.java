@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class CalculaMedia {
+public class Tarefa {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Double somaNotas = 0.0;
